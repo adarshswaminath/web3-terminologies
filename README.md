@@ -1,8 +1,5 @@
 # Web3 related word and thier short Explanations
-##  Author ##
-👤 Adarsh Swaminath<br>
-Twitter: <a href="https://mobile.twitter.com/adarshs002">@AdarshS002</a><br>
-LinkedIn: <a href="https://in.linkedin.com/in/adarsh-s-09935b240">AdarshS</a>
+
 ## 🤝 Contributing ##
 <p>Contributions,Issuses and feature request are welcome!
   Feel free to connect with me </p>
